@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "mongoURL": "mongodb+srv://max:German2002@cluster0.7ncft.mongodb.net/products"
+}
